@@ -1,8 +1,6 @@
 # Registration Form 
 Technology Used:
 <br>
->Backend: Java Servlet Page (JSP), JDBC 
-<br>
+Backend: Java Servlet Page (JSP), JDBC 
 Frontend: HTML,JS ,Ajax 
-<br>
->Datavase: Mysql
+Datavase: Mysql
