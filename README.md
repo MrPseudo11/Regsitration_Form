@@ -1,1 +1,8 @@
-This is the registration form using HTMl CSS JS and used java servlet as backend 
+# Registration Form 
+Technology Used:
+<br>
+>Backend: Java Servlet Page (JSP), JDBC 
+<br>
+> Frontend: HTML,JS ,Ajax 
+<br>
+>Datavase: Mysql
