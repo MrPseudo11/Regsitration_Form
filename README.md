@@ -3,6 +3,6 @@ Technology Used:
 <br>
 >Backend: Java Servlet Page (JSP), JDBC 
 <br>
-> Frontend: HTML,JS ,Ajax 
+Frontend: HTML,JS ,Ajax 
 <br>
 >Datavase: Mysql
